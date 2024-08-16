@@ -41,13 +41,14 @@ To view and run the project locally, follow these steps:
     ```
 
 5. **Open the project in your browser:**
-    - Visit `http://localhost:3000` to view the sign-up page.
+    - Visit `https://facebook-sign-up-tanzeelahmads-projects.vercel.app/` to view the sign-up page.
 
 ## Screenshots
 
 Include screenshots of your project to showcase the user interface.
 
-![Sign-Up Page](./screenshots/signup-page.png)
+![Sign-Up Page](![Screenshot (301)](https://github.com/user-attachments/assets/4d6a9b97-c138-4273-9371-db6fbb5ea0f3)
+)
 
 ## Contributing
 
